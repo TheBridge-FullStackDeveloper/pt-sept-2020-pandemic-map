@@ -64,7 +64,7 @@ La función `showCountryGraph` recibirá el nombre de un lugar y pintará en el 
 
 - La segunda gráfica será de tipo `Pie` y tendremos como labels, nuevamente, los nombres los países afectados. En el caso del campo `series` que hay que usar para pintar los datos utilizaremos el campo `dailyCases`, de forma que el total de datos admitidos en nuestra gráfica de tipo Pie (recuerda que en `options` podemos usar un campo `total`) sea la suma de todos los `dailyCases` que vamos a mostrar.
 
-## Bonus
+## Bonus
 
 Si has terminado el ejercicio y tienes ganas de mejorar tus gráficas te animamos a que les des estilos para que se diferencien de las gráficas genéricas de `Chartist` y darle un toque personal a tu web de pandemias 🎨.
 
